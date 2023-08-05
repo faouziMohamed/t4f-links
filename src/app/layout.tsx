@@ -15,7 +15,7 @@ const SITE_URL = process.env.SITE_URL!;
 export const metadata: Metadata = {
   title: meta.title,
   description: meta.description,
-  applicationName: '2 Raffle',
+  applicationName: 'Trust For Finance - Contact',
   referrer: 'origin-when-cross-origin',
   keywords:
     'administratif, cotisations, Comptabilité, membres, associations, gestion, plateforme, partenaire, reporting, transactions, contact, finance, trust, mfaouzi',
