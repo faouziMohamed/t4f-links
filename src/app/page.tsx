@@ -56,7 +56,7 @@ export default function Home() {
           id='facebook'
           title={'Facebook'}
           href={'https://www.facebook.com/trust4finance'}
-          description='Suivez nous sur Facebook pour plus de contenu.'
+          description={"Suivez nous sur Facebook pour plus d'infos"}
         />
         <LinkCard
           id='contact-email'
